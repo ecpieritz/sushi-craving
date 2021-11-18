@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --pink: #f524c8;
+  --rose: #ff8fab;
+  --black: #181818;
+  --white: #ffffff;
+}
+
+body{
+  background-image: url('./img/bg.png');
+  width: 100vw;
+  height: auto;
+  font-family: 'Poppins', sans-serif;
+  color: var(--black);
+}
+
+/* *****COLORS TEXT***** */
+.pink-text{
+  color: var(--pink);
+}
+
+.rose-text{
+  color: var(--rose);
+}
+
+.white-text{
+  color: var(--white);
+}
+/* *****END COLORS TEXT***** */
