@@ -8,7 +8,7 @@
 </p>
 
 ## 📖 About
-<p>SPA created with bootstrap 4 from an Asian restaurant.</p>
+<p>MPA created with bootstrap 4 from an Asian restaurant.</p>
 
 ---
 
