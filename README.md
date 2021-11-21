@@ -2,9 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/x" width = "700" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "350" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/x" width = "702" height = "auto">
+  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
 </p>
 
 ## 📖 About
