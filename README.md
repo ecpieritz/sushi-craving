@@ -1,3 +1,5 @@
+<h1 align = "center">:warning: Project Paused :warning:</h1>
+
 <h1 align = "center"> :fast_forward: :sushi: Sushi Craving :sushi: :rewind: </h1>
 
 ## 🖥 Preview
